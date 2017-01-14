@@ -7,6 +7,6 @@
 	{!! Html::style('css/bootstrap.min.js') !!}
 </head>
 <body>
-	
+	<h1>Hola</h1>
 </body>
 </html>
